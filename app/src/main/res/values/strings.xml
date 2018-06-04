@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">myProj</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="title_activity_game_controller">GameControllerActivity</string>
+    <string name="title_activity_instractions">Instactions</string>
+    <string name="purpose_game">the goal of the game</string>
+    <string name="ins">the player need to move the ball with the sensors to the end of the maze and try to brick the highscore</string>
+</resources>
